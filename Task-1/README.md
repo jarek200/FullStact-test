@@ -1,3 +1,10 @@
+# Task 1
+
+Develop a frontend application utilizing React.js, JavaScript, and HTML5 that features a basic timeline with a
+draggable play head and zoom controls. The timeline should include one main clip of arbitrary duration and five
+distinct clips of varying lengths arranged randomly. The play head should be coloured blue and span the entire
+height of the timeline, including the clips. Ensure that the clips are distributed across three separate tracks.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

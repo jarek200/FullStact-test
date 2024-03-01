@@ -55,15 +55,3 @@ const parsedPacket = parseDataPacket(packetBuffer)
 
 // Display the parsed packet data
 console.log('Parsed Packet:', parsedPacket)
-
-// Output:{
-//   "device": 1,
-//   "packetLength": 11,
-//   "checksum": 3523384905,
-//   "dataAddress": 11265,
-//   "command": "Read",
-//   "data": {
-//     "0": 65,
-//     "1": 66
-//   }
-// }
